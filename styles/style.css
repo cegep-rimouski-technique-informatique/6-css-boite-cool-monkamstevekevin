@@ -3,3 +3,18 @@ html {
 }
 
 /* Votre CSS ci-dessous */
+p{
+  width: 15rem;
+  height: 10rem;
+  background: linear-gradient(155deg,red 20% ,darkred 100%);
+  display: flex;
+  color: white;
+  border-radius: 0.5rem;
+  box-shadow: 5px 5px 5px black;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;  
+  font-weight: bold;
+
+
+}
